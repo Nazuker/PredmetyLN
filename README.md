@@ -9,7 +9,7 @@
 </div>
 
 # Проекты
-https://ru.yougile.com/board/npmqx9pgvjwm - Доска с заданиями
+[https://ru.yougile.com/board/npmqx9pgvjwm](https://ru.yougile.com/board/0wog1vj6u8gy) - Доска с заданиями
 
 https://drive.google.com/drive/folders/1b7VD0miU58KBJP1bLx3k0Efp-zvWd8Wz?usp=sharing - Создание документов с использованием Python'а
 
